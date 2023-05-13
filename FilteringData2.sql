@@ -1,0 +1,4 @@
+SELECT * FROM pets WHERE color = 'white'
+ORDER BY age DESC
+OFFSET 3
+LIMIT 3;

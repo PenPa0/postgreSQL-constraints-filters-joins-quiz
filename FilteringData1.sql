@@ -1,0 +1,1 @@
+SELECT * FROM pets WHERE type = 'dog' AND age > 3 LIMIT 3;
